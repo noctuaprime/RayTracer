@@ -5,3 +5,7 @@ Downloading this repo and running the program using OpenGL and the commands show
 
 
 <img width="793" height="593" alt="Screenshot 2024-12-06 201313" src="https://github.com/user-attachments/assets/e0d7777b-7621-45dd-9848-ffb2fb9bfa7b" />
+
+
+The metallic ball displayed can be moved around using the WASD keys and the point light in the scene can be moved around using IJKL. 
+This control scheme was meant to demonstrate dynamic lighting in the scene and show off the reflections of the materials
